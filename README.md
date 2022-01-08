@@ -32,7 +32,7 @@ foot movements while perform the blending phase.
 
 
 <p align="center">
-  <img width="650" height="300" src="https://user-images.githubusercontent.com/22293987/136187169-24678516-4317-4690-839c-ddd4084b08cc.jpg">
+  <img width="550" height="200" src="https://user-images.githubusercontent.com/22293987/136187169-24678516-4317-4690-839c-ddd4084b08cc.jpg">
   </p>
   <p align="center">
    Fig 1: example of transition of the motion
